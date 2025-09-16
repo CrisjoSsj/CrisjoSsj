@@ -25,20 +25,39 @@
   </a>
 </p>
 
-#### 🖥️ Frameworks
+#### 🖥️ Base de datos
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,flask&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&perline=14" />
+  </a>
+</p>
+
+#### 🖥️ Frameworks/librerias
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,flask,nodejs,express,nextjs,django,npm,fastapi&perline=14" />
   </a>
 </p>
 
 #### 🔧 Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,docker,postman,ubuntu,discord,vercel,postgres,dynamodb,express,mongodb,mysql,nextjs,nodejs,azure,supabase,windows,django,fastapi,npm,powershell&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+  <img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="./assets/icons/valorant.svg" width="48" height="48" />
 </p>
+
+
+
 
 ---
 
