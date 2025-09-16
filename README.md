@@ -36,16 +36,13 @@
 #### 🔧 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,docker,postman,ubuntu,discord,vercel,postgres,dynamodb,express,mongodb,mysql,nextjs,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,docker,postman,ubuntu,discord,vercel,postgres,dynamodb,express,mongodb,mysql,nextjs,nodejs,azure,supabase,windows,django,fastapi,npm,powershell&perline=14" />
   </a>
 </p>
 
 ---
 
 <h6 align="center">👇🏻Aquí hay una lista de los proyectos de código abierto en los que trabajo: 👇🏻</h6>
-
-
-
 
 
 
