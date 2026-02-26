@@ -6,14 +6,18 @@
   Hola, soy Crisjo Ssj
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  Building scalable systems • Integrating AI • Shipping real-world solutions
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20(TypeScript%20%2F%20React);Backend%20Engineer%20(Python%20%2F%20Node.js);Cloud%20%26%20Automation%20Enthusiast;AI%20Integration%20Builder&font=Fira%20Code&center=true&width=600&height=45"></a>
 </p>
 
-- 👨‍💻 Como futuro ingeniero de IA y software, estoy en constante aprendizaje y exploración de nuevas tecnologías para mejorar mis habilidades.
-- 💬 Pregúntame sobre mi experiencia en desarrollo de aplicaciones móviles y aprendizaje automático.
-- 🌱 Estoy profundizando en el aprendizaje automático y la IA.
+- 👨‍💻 Fullstack Developer focused on building scalable web applications and modular backend architectures.
+- 🚀 I develop APIs with Python (FastAPI, Django) and Node.js, and modern frontends with React.
+- ☁️ Experienced deploying applications using Docker and cloud platforms.
+- 🤖 I integrate AI solutions such as chatbots and LLM APIs into real-world applications.
+- 🔄 I enjoy building automation workflows and optimizing systems for performance.
 
 ## 🛠 &nbsp;Stack
 
@@ -56,12 +60,15 @@
   <img src="./assets/icons/valorant.svg" width="48" height="48" />
 </p>
 
+## 🚀 Current Focus
 
-
+- Building SaaS and modular backend systems
+- AI-powered web integrations
+- Cloud deployments & containerized applications
+- Automation workflows with n8n
 
 ---
 
-<h6 align="center">👇🏻Aquí hay una lista de los proyectos de código abierto en los que trabajo: 👇🏻</h6>
 
 
 
