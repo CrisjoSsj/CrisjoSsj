@@ -22,6 +22,12 @@
 
 <div align="center">
 
+### 🌌 Shadow city
+
+*Every commit raises another tower.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D city built from my contributions" width="100%"/>
+
 <img src="./throne.svg?v=1" alt="CrisjoSsj on the throne with the AI shadow army" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=171130)](https://github.com/CrisjoSsj)
