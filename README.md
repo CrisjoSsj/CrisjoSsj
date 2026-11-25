@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./hero.svg?v=1" alt="CrisjoSsj, fullstack developer from Manta, Ecuador" width="100%"/>
+<img src="./hero.svg?v=2" alt="CrisjoSsj, fullstack developer from Manta, Ecuador" width="100%"/>
 
-<img src="./hunter-way.svg?v=1" alt="What I build" width="100%"/>
+<img src="./hunter-way.svg?v=2" alt="What I build" width="100%"/>
 
-<img src="./skills.svg?v=1" alt="My tech stack" width="100%"/>
+<img src="./skills.svg?v=2" alt="My tech stack" width="100%"/>
 
-<img src="./license.svg?v=1" alt="Hunter license and GitHub stats" width="100%"/>
+<img src="./license.svg?v=2" alt="Hunter license and GitHub stats" width="100%"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D city built from my contributions" width="100%"/>
 
-<img src="./throne.svg?v=1" alt="CrisjoSsj on the throne with the AI shadow army" width="100%"/>
+<img src="./throne.svg?v=2" alt="CrisjoSsj on the throne with the AI shadow army" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=171130)](https://github.com/CrisjoSsj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4da3ff?style=for-the-badge&logoColor=171130)](https://www.linkedin.com/in/cristopher-castro-00633b279/)
