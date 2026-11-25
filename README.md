@@ -1,77 +1,31 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+
+<img src="./hero.svg?v=1" alt="CrisjoSsj, fullstack developer from Manta, Ecuador" width="100%"/>
+
+<img src="./hunter-way.svg?v=1" alt="What I build" width="100%"/>
+
+<img src="./skills.svg?v=1" alt="My tech stack" width="100%"/>
+
+<img src="./license.svg?v=1" alt="Hunter license and GitHub stats" width="100%"/>
+
 </div>
 
-<h3 align="center">
-  Hola, soy Crisjo Ssj
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  Building scalable systems • Integrating AI • Shipping real-world solutions
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20(TypeScript%20%2F%20React);Backend%20Engineer%20(Python%20%2F%20Node.js);Cloud%20%26%20Automation%20Enthusiast;AI%20Integration%20Builder&font=Fira%20Code&center=true&width=600&height=45"></a>
-</p>
+## ⚔️ Dungeons cleared
 
-- 👨‍💻 Fullstack Developer focused on building scalable web applications and modular backend architectures.
-- 🚀 I develop APIs with Python (FastAPI, Django) and Node.js, and modern frontends with React.
-- ☁️ Experienced deploying applications using Docker and cloud platforms.
-- 🤖 I integrate AI solutions such as chatbots and LLM APIs into real-world applications.
-- 🔄 I enjoy building automation workflows and optimizing systems for performance.
+| Dungeon | What it is | Weapons used |
+|---|---|---|
+| [**Hammer**](https://github.com/CrisjoSsj/Supabase-hackathon) | Live auctions with realtime bids, room presence and an AI narrator | `Next.js` `Supabase` `OpenAI` |
+| [**Chuwue Grill**](https://github.com/CrisjoSsj/Proyecto-autonomo-servidores) | Restaurant platform built on microservices | `TypeScript` `Python` `Go` `Ruby` |
+| [**Bus Tracker Manta**](https://github.com/CrisjoSsj/traking-bus) | Installable app for bus routes, stops and arrival times | `React` `TypeScript` `Supabase` |
+| [**Supabase AI Bridge**](https://github.com/CrisjoSsj/supabase-ai-bridge) | Connects Supabase to AI models for plug-and-play chatbots | `TypeScript` `Edge Functions` |
+| [**claude-config**](https://github.com/CrisjoSsj/claude-config) | Shared Claude Code setup with rules, hooks and templates | `JavaScript` `Shell` |
 
-## 🛠 &nbsp;Stack
+<div align="center">
 
-#### 🔧 Languages
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=14" />
-  </a>
-</p>
+<img src="./throne.svg?v=1" alt="CrisjoSsj on the throne with the AI shadow army" width="100%"/>
 
-#### 🖥️ Base de datos
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&perline=14" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=171130)](https://github.com/CrisjoSsj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4da3ff?style=for-the-badge&logoColor=171130)](https://www.linkedin.com/in/cristopher-castro-00633b279/)
+[![Website](https://img.shields.io/badge/Website-e879f9?style=for-the-badge&logo=vercel&logoColor=171130)](https://ssj-nexa-software.vercel.app/)
 
-#### 🖥️ Frameworks/librerias
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,flask,nodejs,express,nextjs,django,npm,fastapi&perline=14" />
-  </a>
-</p>
-
-#### 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" />
-  <img src="https://skillicons.dev/icons?i=discord" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=powershell" />
-  <img src="./assets/icons/valorant.svg" width="48" height="48" />
-</p>
-
-## 🚀 Current Focus
-
-- Building SaaS and modular backend systems
-- AI-powered web integrations
-- Cloud deployments & containerized applications
-- Automation workflows with n8n
-
----
-
-
-
-
-
-
-
+</div>
